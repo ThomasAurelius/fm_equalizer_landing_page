@@ -140,7 +140,7 @@ body {
 
 .phone {
 	position: absolute;
-	width: 25%;
+	width: 250px;
 	top: -160px;
 	left: 15%;
 	z-index: 2;
@@ -228,16 +228,30 @@ body {
 		flex-direction: column;
 	}
 
-	.bg-icon-2 {
-		display: none;
-	}
-
 	footer {
-		margin-top: 30vh;
+		margin-top: 20vh;
 	}
 
 	.intro p {
 		padding-right: 20px;
+	}
+
+	.premium {
+		transform: translateY(33%);
+	}
+}
+
+@media (max-width: 750px) {
+	.premium {
+		transform: translateY(65%);
+	}
+
+	footer {
+		margin-top: 55vh;
+	}
+	.social-media-icons {
+		margin: 0 auto;
+		justify-content: center;
 	}
 }
 
@@ -264,6 +278,6 @@ body {
 	}
 
 	footer {
-		margin-top: 45vh;
+		margin-top: 55vh;
 	}
 }
