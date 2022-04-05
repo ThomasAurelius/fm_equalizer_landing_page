@@ -85,8 +85,8 @@ body {
 }
 
 .logo {
-	width: 10vmin;
-	height: 3.33vmin;
+	width: 12vmin;
+	height: 5vmin;
 	display: inline-block;
 	margin-top: 30px;
 	margin-left: 60px;
@@ -239,6 +239,10 @@ body {
 	.premium {
 		transform: translateY(33%);
 	}
+
+	main {
+		margin-bottom: 250px;
+	}
 }
 
 @media (max-width: 750px) {
@@ -252,6 +256,9 @@ body {
 	.social-media-icons {
 		margin: 0 auto;
 		justify-content: center;
+	}
+	main {
+		margin-bottom: 400px;
 	}
 }
 
