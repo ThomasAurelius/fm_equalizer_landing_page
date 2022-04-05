@@ -271,8 +271,21 @@ body {
 	}
 
 	.premium {
-		width: 100%;
 		left: 0;
+		min-width: 300px;
+		line-height: 1.5rem;
+		background-color: #fa7453;
+		color: white;
+		border-radius: 10px;
+		z-index: 3;
+	}
+
+	.premium h2 {
+		font-size: 2rem;
+	}
+
+	.premium p {
+		padding-bottom: 20px;
 	}
 
 	.intro h1 {
@@ -286,5 +299,7 @@ body {
 
 	footer {
 		margin-top: 55vh;
+		width: 100%;
+		margin: 0 auto;
 	}
 }
