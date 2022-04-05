@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 -  Solution URL: (https://github.com/ThomasAurelius/fm_equalizer_landing_page)
--  Live Site URL: (https://your-live-site-url.com)
+-  Live Site URL: (https://thomasaurelius.github.io/fm_equalizer_landing_page/)
 
 ## My process
 
