@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./eq_ss_top.png)
-![](./eq_ss_bottom.png)
+![](./fm_equalizer_landscape_1.png)
+![](./fm_equalizer_landscape_2.png)
 
 ### Links
 
